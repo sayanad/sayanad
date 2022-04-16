@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sayan Adhikary
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning Core Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me baban
+<h1 align="center">Hi 👋, I'm Sayan Adhikary</h1>
+<h3 align="center">I am a secondary student.love to learn software devlopment</h3>
 
-<!---
-sayanad/sayanad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
